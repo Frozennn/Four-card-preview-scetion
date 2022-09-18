@@ -124,6 +124,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: flex-start;
+    font-size: 16px;
   }
 
   /* HEADER */
@@ -137,7 +138,8 @@ header {
   }
 
   .header-title {
-    max-width: 40%;
+    font-size: 2em;
+    max-width: 50%;
     margin: 0 auto;
   }
 
